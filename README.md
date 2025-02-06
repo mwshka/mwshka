@@ -4,16 +4,14 @@
 <p align="center">
  ᶜʳᵉᵈⁱᵗˢ ᵍᵒ ᵗᵒ ᴬᵖʳⁱˡᴮᵉʳʳʸᴾⁱᵉ ᵒⁿ ᴾⁱⁿᵗᵉʳᵉˢᵗ !
  <p align="center">
- 🐙 𝙣𝙖𝙢-𝙨𝙪 . 𝙣𝙖𝙢-𝙜𝙮𝙪 . miiinor, don't be weird . 𝙄𝙎𝙁𝙋</p>
+ 🐙 𝙣𝙖𝙢-𝙨𝙪 . 𝙣𝙖𝙢-𝙜𝙮𝙪 . miiinor, don't be weird . 𝙄𝙎𝙁𝙋 . 🇵🇹</p>
  <p align="center">
 𝙘+𝙝 . 𝙞𝙣𝙩, no need to ask ! iwc 🦑 𝙙𝙣𝙞 if you're problematic</p>
 <p align="center">
 I love my legend @𝙥𝙖𝙬-07 sooo so much ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡</p>
 <p align="center">
 bro 99% doesn't know how to use github but it's alright I'll teach you one day ♡</p>
-<p align="center">
-..... ʷᵒʳᵏⁱⁿᵍ ᵒⁿ ᵃ ⁿᵉʷ ˢᵗʳᵃʷᵖᵃᵍᵉ</p>
-</p>
+<p>
 
 <!--
 <p>test</p>
