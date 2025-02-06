@@ -1,6 +1,6 @@
 “ℓσѵε, ℓเҡε ყσµ. ℓσѵε ɱε, ℓเҡε ყσµ.„<p>
 <p align=center>
- <img src="https://github.com/user-attachments/assets/1daf6a7f-d454-42f3-b9ab-6032b81ad730" alt="Alt Text" width="500" height="500">
+ <img src="https://github.com/user-attachments/assets/1daf6a7f-d454-42f3-b9ab-6032b81ad730" alt="Alt Text" width="400" height="400">
 <p align="center">
  ᶜʳᵉᵈⁱᵗˢ ᵍᵒ ᵗᵒ ᴬᵖʳⁱˡᴮᵉʳʳʸᴾⁱᵉ ᵒⁿ ᴾⁱⁿᵗᵉʳᵉˢᵗ !
  <p align="center">
