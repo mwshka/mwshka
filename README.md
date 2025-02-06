@@ -1,5 +1,6 @@
 “ℓσѵε, ℓเҡε ყσµ. ℓσѵε ɱε, ℓเҡε ყσµ.„<p>
-![Untitled244_20250206015605](https://github.com/user-attachments/assets/1daf6a7f-d454-42f3-b9ab-6032b81ad730)
+<p align=center>
+ <img src="https://github.com/user-attachments/assets/1daf6a7f-d454-42f3-b9ab-6032b81ad730" alt="Alt Text" width="500" height="500">
 <p align="center">
  ᶜʳᵉᵈⁱᵗˢ ᵍᵒ ᵗᵒ ᴬᵖʳⁱˡᴮᵉʳʳʸᴾⁱᵉ ᵒⁿ ᴾⁱⁿᵗᵉʳᵉˢᵗ !
  <p align="center">
@@ -13,6 +14,10 @@ bro 99% doesn't know how to use github but it's alright I'll teach you one day �
 <p align="center">
 ..... ʷᵒʳᵏⁱⁿᵍ ᵒⁿ ᵃ ⁿᵉʷ ˢᵗʳᵃʷᵖᵃᵍᵉ</p>
 </p>
+
+<!--
+<p>test</p>
+<img src="https://github.com/user-attachments/assets/1daf6a7f-d454-42f3-b9ab-6032b81ad730" alt="Alt Text" width="500" height="500">
 <!--
 **mwshka/mwshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
