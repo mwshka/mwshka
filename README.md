@@ -1,4 +1,4 @@
-## Hi there 👋
+## how tf does ts work help me
 
 <!--
 **mwshka/mwshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
