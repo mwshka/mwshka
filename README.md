@@ -1,5 +1,11 @@
-## how tf does ts work help me
+![Untitled244_20250206015605](https://github.com/user-attachments/assets/b07eae0d-d6df-460f-b537-7ec27ab7cc9d)
 
+<p> ᶜʳᵉᵈⁱᵗˢ ᵍᵒ ᵗᵒ ᴬᵖʳⁱˡᴮᵉʳʳʸᴾⁱᵉ ᵒⁿ ᴾⁱⁿᵗᵉʳᵉˢᵗ !
+  <p> 🐙 𝙣𝙖𝙢-𝙨𝙪 . 𝙣𝙖𝙢-𝙜𝙮𝙪 . miiinor, don't be weird . 𝙄𝙎𝙁𝙋</p>
+  <p> 𝙘+𝙝 . 𝙞𝙣𝙩, no need to ask ! iwc 🦑 𝙙𝙣𝙞 if you're problematic</p>
+  <p> I love my legend @𝙥𝙖𝙬-07 sooo so much ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡</p>
+  <p> bro 99% doesn't know how to use github but it's alright I'll teach you one day ♡</p>
+<p> ..... ʷᵒʳᵏⁱⁿᵍ ᵒⁿ ᵃ ⁿᵉʷ ˢᵗʳᵃʷᵖᵃᵍᵉ</p>
 <!--
 **mwshka/mwshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
