@@ -8,9 +8,9 @@
  <p align="center">
 𝙘+𝙝 . 𝙞𝙣𝙩, no need to ask ! iwc 🦑 𝙙𝙣𝙞 if you're problematic</p>
 <p align="center">
-I love my legend @𝙥𝙖𝙬-07 sooo so much ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡</p>
+I love fnaf!!1!</p>
 <p align="center">
-bro 99% doesn't know how to use github but it's alright I'll teach you one day ♡</p>
+bro I 99% don't know how to use github but it's alright I'll get the hang of it ♡</p>
 <p>
 
 <!--
