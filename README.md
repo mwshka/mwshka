@@ -1,10 +1,10 @@
 " ιт'ѕ ѕσ σвνισυѕ, ι'м уσυя ηυмвєя σηє. „<p>
 <p align=center>
- <img src="https://github.com/user-attachments/assets/bdb4287e-d00d-498d-9432-a7e370b56421" alt="Alt Text" width="400" height="400">
+ <img src="https://github.com/user-attachments/assets/88c05c95-4980-43ae-8cc0-ddfe7f9da363" alt="Alt Text" width="400" height="400">
 <p align="center">
  ʷʰᵉⁿ ᴵ ᵍᵉᵗ ᵗᵒ ᵗʰᵉ ᶜˡᵘᵇ
  <p align="center">
- 💉 𝙣𝙖𝙢-𝙨𝙪 . 𝙣𝙖𝙢-𝙜𝙮𝙪 . miiinor, don't be weird . 𝙄𝙎𝙁𝙋 . 🇵🇹</p>
+ 💉 𝙨𝙚𝙘𝙧𝙚𝙩𝙡𝙮 𝙢𝙞𝙘𝙝𝙖𝙚𝙡 𝙖𝙛𝙩𝙤𝙣 . 𝙢𝙚𝙡𝙡𝙤𝙬 . miiinor, don't be weird . 𝙄𝙎𝙁𝙋 . 🇵🇹</p>
  <p align="center">
 𝙘+𝙝 . 𝙞𝙣𝙩, no need to ask ! iwc 🦑 𝙙𝙣𝙞 if you're problematic</p>
 <p align="center">
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
